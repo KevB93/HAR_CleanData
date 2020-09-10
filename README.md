@@ -1,7 +1,7 @@
 ## Getting Data: Clean and Tidy
 
 
-*.) This is a Peer-Graded Coursera Assignment: Getting and Cleaning Data in R. The objective of this project is to demonstrate the ability to clean raw samples of data files provided <source> <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> into a tidy data for further analysis. The original data is stored in the Human Activity Recognition (HAR) database, UCI Machine Learning repo.
+*.) This is a Peer-Graded Coursera Assignment: Getting and Cleaning Data in R. The objective of this project is to demonstrate the ability to clean raw samples of data files into a tidy data for later analysis. The original data is downloaded from the Human Activity Recognition (HAR) database, UCI Machine Learning repo.
 
 
 *.) This submission is a work of KevB93, provided with the following files available in GitHub repo:
